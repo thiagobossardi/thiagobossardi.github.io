@@ -40,7 +40,7 @@ This report, in particular, was made using Panel Data on Stata software, and it 
 
 **2 -** As part of the Applied Econometrics Master's subject, students were required to develop a report using appropriate econometrics models and estimators, conduct relevant tests and diagnostic evaluations, make accurate inferences, and provide an evidence-based interpretation of the results.
 
-This report, in particular, was made using Panel Data on Stata software, and it aimed to Test for cointegration and relationships between per-capita income in US regions.
+This report, in particular, was made using Time Series Data on Stata software, and it aimed to Test for cointegration and relationships between per-capita income in US regions.
 
 **[Report](/Assets/Reports/2 - Income Convergence.pdf)**
 
