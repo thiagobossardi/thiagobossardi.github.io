@@ -1,8 +1,5 @@
 title: Thiago Prates Bossardi
 logo: profile-pic (2).png
-description: 
-:house: London, UK		
-:iphone: 07495 796 478	               
-:email: thiagopbossardi@gmail.com
-#show_downloads: true
+#description: 
+show_downloads: true
 theme: jekyll-theme-minimal
