@@ -1,4 +1,4 @@
-:house: London, UK	-  :iphone: 07495 796 478	 -  :email: thiagopbossardi@gmail.com
+🏠 London, UK	-  📞 07495 796 478	 -  📧 thiagopbossardi@gmail.com
 
 # Economist
 
