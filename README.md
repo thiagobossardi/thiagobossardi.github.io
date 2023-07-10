@@ -21,12 +21,12 @@ and intensive professional development.
 - BA International Trade | University of Caxias Do Sul, Brazil 
 
 ### Professional Development
-- Google Data Analytics Certificate
-A bespoke course designed by Google that provides a practical-based program and covers the fundamentals of Data
+**Google Data Analytics Certificate**
+- A bespoke course designed by Google that provides a practical-based program and covers the fundamentals of Data
 Analytics. Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share
 data.
-- CFA Institute – Investment Foundations Programme
-Provided a grounding knowledge in the principles of finance, ethics, and investments within a global investment industry. 
+**CFA Institute – Investment Foundations Programme**
+- Provided a grounding knowledge in the principles of finance, ethics, and investments within a global investment industry. 
 
 ### Projects
 1
