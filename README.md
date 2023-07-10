@@ -19,8 +19,8 @@ and intensive professional development.
 - English, Italian & Portuguese (Fluent)
 
 ### Education
-- MSc Economics | University of Greenwich, United Kingdom (September 2023)
-- BA International Trade | University of Caxias Do Sul, Brazil 
+- MSc Economics - University of Greenwich, United Kingdom (September 2023)
+- BA International - Trade University of Caxias Do Sul, Brazil 
 
 ### Professional Development
 **Google Data Analytics Certificate**
