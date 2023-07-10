@@ -9,7 +9,7 @@ experience both in the UK and in Brazil. A dedicated and diligent professional w
 analytical, and communication skills and a sound, methodical approach to understanding the intricacies of business issues
 and the wider business picture, having successfully led and managed multiple projects throughout my career. A highly
 motivated individual who continuously pursues opportunities to gain new skills and experience and insists on thorough
-and intensive professional development. 
+and intensive professional development.
 
 ### Skills
 - Economics - Econometrics - Macroeconomics Team Collaboration
@@ -26,7 +26,7 @@ and intensive professional development.
 **Google Data Analytics Certificate**
 - A bespoke course designed by Google that provides a practical-based program and covers the fundamentals of Data
 Analytics. Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share
-data
+data.<br>
 **CFA Institute – Investment Foundations Programme**
 - Provided a grounding knowledge in the principles of finance, ethics, and investments within a global investment industry. 
 
