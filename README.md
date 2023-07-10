@@ -48,7 +48,7 @@ This report, in particular, was made using Panel Data on Stata software, and it 
 
 ### Work Experience
 **Compliance Analyst March 2022 – September 2022 (Fixed term contract)**
-**SPX Capital**
+**[SPX Capital](https://www.spxcapital.com/en/home/)**
 - Accountable for quantitative and qualitative analysis of trades to ensure the traders are in accordance with the
 fund’s trading strategy and mandate.
 - Monitoring and surveillance work to evidence compliance with FCA rules/principles and EU rules (MIFID II).
@@ -64,7 +64,7 @@ a dashboard.
 tasks to comply with FCA rules/principles and EU rules.
 
 **Team Member (August 2021 – March 2022)**
-**Itsu Ltd.**
+**[Itsu Ltd.](https://www.itsu.com/)**
 - Fully accountable for securing the highest standards of food quality.
 - Successfully working with colleagues, the ability to work under pressure and communication.
 - Consistently adapting to working under pressure within time constraints. Consistently adapting to working under
@@ -77,7 +77,7 @@ with other tradesmen on site to ensure the timely completion of construction pro
 - Consistently adapting to working under pressure within time constraints
   
 **Administrative Assistant - International Affairs (March 2015 – December 2017)**
-**University of Caxias do Sul, Brazil**
+**[University of Caxias do Sul, Brazil](https://www.ucs.br/site)**
 - Provided efficient and knowledgeable administrative support when dealing with all incoming inquiries and responded
 to all students and professors within a busy international affairs department.
 - Communicated externally with other countries and delivered workshops in relation to student exchange
