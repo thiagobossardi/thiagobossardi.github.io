@@ -10,15 +10,15 @@ motivated individual who continuously pursues opportunities to gain new skills a
 and intensive professional development. 
 
 ### Skills
-Economics - Econometrics - Macroeconomics Team Collaboration
-Data Analysis - Data Visualisation - Data Cleaning  
-Stata, SQL, Python, Microsoft Office and Power Query
-Project Management - Problem-Solving 
-English, Italian & Portuguese (Fluent)
+- Economics - Econometrics - Macroeconomics Team Collaboration
+- Data Analysis - Data Visualisation - Data Cleaning  
+- Stata, SQL, Python, Microsoft Office and Power Query
+- Project Management - Problem-Solving 
+- English, Italian & Portuguese (Fluent)
 
 ### Education
-MSc Economics | University of Greenwich, United Kingdom (September 2023)
-BA International Trade | University of Caxias Do Sul, Brazil 
+- MSc Economics | University of Greenwich, United Kingdom (September 2023)
+- BA International Trade | University of Caxias Do Sul, Brazil 
 
 ### Professional Development
  Google Data Analytics Certificate
