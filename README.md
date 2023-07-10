@@ -32,9 +32,11 @@ data.
 - Provided a grounding knowledge in the principles of finance, ethics, and investments within a global investment industry. 
 
 ### Projects
-1
+**1 -** As part of the Applied Econometrics Master's subject, students were required to develop a report using appropriate econometrics models and estimators, conduct relevant tests and diagnostic evaluations, make accurate inferences, and provide an evidence-based interpretation of the results.
+This report, in particular, was made using Panel Data on Stata software, and it aimed to find the Determinants of Wage Earnings in the US.
 
-2
+**2 -** As part of the Applied Econometrics Master's subject, students were required to develop a report using appropriate econometrics models and estimators, conduct relevant tests and diagnostic evaluations, make accurate inferences, and provide an evidence-based interpretation of the results.
+This report, in particular, was made using Panel Data on Stata software, and it aimed to Test for cointegration and relationships between per-capita income in US regions.
 
 3
 
