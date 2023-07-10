@@ -12,10 +12,10 @@ motivated individual who continuously pursues opportunities to gain new skills a
 and intensive professional development.
 
 ### Skills
-- Economics - Econometrics - Macroeconomics Team Collaboration
+- Economics - Econometrics - Macroeconomics 
 - Data Analysis - Data Visualisation - Data Cleaning  
 - Stata, SQL, Python, Microsoft Office and Power Query
-- Project Management - Problem-Solving 
+- Project Management - Problem-Solving - Team Collaboration
 - English, Italian & Portuguese (Fluent)
 
 ### Education
@@ -24,7 +24,7 @@ and intensive professional development.
 
 ### Professional Development
 **Google Data Analytics Certificate**
-- A bespoke course designed by Google that provides a practical-based program and covers the fundamentals of Data
+<p>- A bespoke course designed by Google that provides a practical-based program and covers the fundamentals of Data
 Analytics. Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share
 data.<br>
 **CFA Institute – Investment Foundations Programme**
