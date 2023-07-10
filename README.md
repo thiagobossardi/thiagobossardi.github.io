@@ -24,9 +24,10 @@ and intensive professional development.
 
 ### Professional Development
 **Google Data Analytics Certificate**
-<p>- A bespoke course designed by Google that provides a practical-based program and covers the fundamentals of Data
+- A bespoke course designed by Google that provides a practical-based program and covers the fundamentals of Data
 Analytics. Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share
-data.<br>
+data.
+
 **CFA Institute – Investment Foundations Programme**
 - Provided a grounding knowledge in the principles of finance, ethics, and investments within a global investment industry. 
 
@@ -46,6 +47,7 @@ fund’s trading strategy and mandate.
 - Monitoring and surveillance work to evidence compliance with FCA rules/principles and EU rules (MIFID II).
 - Responsible for the transition of key monitoring and surveillance tasks from the UK branch to the Brazilian
 headquarters.
+
 *Key Achievements*
 - Successfully managed and updated spreadsheets and databases, which required a detailed understanding of data
 analysis and manipulation.
@@ -77,6 +79,7 @@ opportunities.
 and up-to-date knowledge of changing immigration regulations and the ability to understand various international
 qualifications and to convert these into the Brazilian equivalent.
 - Fully accountable for working with students on exchange and ensuring their general well-being.
+  
 *Key Achievements*
 - Successfully managed and updated spreadsheets and databases, which required a detailed understanding of data
 analysis and manipulation.
