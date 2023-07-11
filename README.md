@@ -2,7 +2,7 @@
 
 # Economist
 
-### About me
+## About me
 An ambitious and results-driven person with knowledge and professional interest in economics and policy making. A highly
 motivated self-starter with experience working in fast-paced commercial environments, having acquired significant
 experience both in the UK and in Brazil. A dedicated and diligent professional who exhibits outstanding interpersonal,
@@ -11,14 +11,14 @@ and the wider business picture, having successfully led and managed multiple pro
 motivated individual who continuously pursues opportunities to gain new skills and experience and insists on thorough
 and intensive professional development.
 
-### Skills
+## Skills
 - Economics - Econometrics - Macroeconomics 
 - Data Analysis - Data Visualisation - Data Cleaning  
 - Stata, SQL, Python, Microsoft Office and Power Query
 - Project Management - Problem-Solving - Team Collaboration
 - English, Italian & Portuguese (Fluent)
 
-### Education
+# Education
 **- MSc Economics - University of Greenwich, United Kingdom** (September 2023)
 
    *Dissertation: How commodity super-cyles impact economic output in developed and developing countries*
@@ -27,7 +27,7 @@ and intensive professional development.
 
    *Undergraduate Project: Analysis of the internationalization process of the University of Caxias do Sul*
 
-### Professional Development
+# Professional Development
 **- Google Data Analytics Certificate**
 
 *(practical-based program that covers the fundamentals of Data Analytics: Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share data)*
@@ -36,7 +36,7 @@ and intensive professional development.
 
 *(Grounding knowledge in the principles of finance, ethics, and investments within a global investment industry)* 
 
-### Projects
+# Projects
  As part of the Applied Econometrics Master's subject, students were required to develop a report using appropriate econometrics models and estimators, conduct relevant tests and diagnostic evaluations, make accurate inferences, and provide an evidence-based interpretation of the results.
 
 **1 -** This report was made using Panel Data on Stata software, and it aimed to find the Determinants of Wage Earnings in the US.
@@ -50,7 +50,7 @@ and intensive professional development.
 
 
 
-### Work Experience
+# Work Experience
 **Compliance Analyst March 2022 – September 2022 (Fixed term contract)**
 **[SPX Capital](https://www.spxcapital.com/en/home/)**
 - Accountable for quantitative and qualitative analysis of trades to ensure the traders are in accordance with the
