@@ -19,20 +19,20 @@ and intensive professional development.
 - English, Italian & Portuguese (Fluent)
 
 ## Education
-**- MSc Economics - University of Greenwich, United Kingdom** (September 2023)
+**MSc Economics - University of Greenwich, United Kingdom** (September 2023)
 
    *Dissertation: How commodity super-cyles impact economic output in developed and developing countries*
  
-**- BA International - Trade University of Caxias Do Sul, Brazil**
+**BA International - Trade University of Caxias Do Sul, Brazil**
 
    *Undergraduate Project: Analysis of the internationalization process of the University of Caxias do Sul*
 
 ## Professional Development
-**- Google Data Analytics Certificate**
+**Google Data Analytics Certificate**
 
 *(practical-based program that covers the fundamentals of Data Analytics: Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share data)*
 
-**- CFA Institute – Investment Foundations Programme**
+**CFA Institute – Investment Foundations Programme**
 
 *(Grounding knowledge in the principles of finance, ethics, and investments within a global investment industry)* 
 
