@@ -18,6 +18,7 @@ and intensive professional development.
 - Project Management - Problem-Solving - Team Collaboration
 - English, Italian & Portuguese (Fluent)
 
+
 ## Education
 **MSc Economics - University of Greenwich, United Kingdom** (September 2023)
 
@@ -27,6 +28,7 @@ and intensive professional development.
 
    *Undergraduate Project: Analysis of the internationalization process of the University of Caxias do Sul*
 
+
 ## Professional Development
 **Google Data Analytics Certificate**
 
@@ -35,6 +37,7 @@ and intensive professional development.
 **CFA Institute – Investment Foundations Programme**
 
 *(Grounding knowledge in the principles of finance, ethics, and investments within a global investment industry)* 
+
 
 ## Projects
  As part of the Applied Econometrics Master's subject, students were required to develop a report using appropriate econometrics models and estimators, conduct relevant tests and diagnostic evaluations, make accurate inferences, and provide an evidence-based interpretation of the results.
