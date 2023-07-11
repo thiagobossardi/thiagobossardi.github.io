@@ -30,7 +30,7 @@ and intensive professional development.
 ### Professional Development
 **- Google Data Analytics Certificate**
 
-*(practical-based program and covers the fundamentals of Data Analytics: Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share data)*
+*(practical-based program that covers the fundamentals of Data Analytics: Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share data)*
 
 **- CFA Institute – Investment Foundations Programme**
 
