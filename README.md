@@ -32,11 +32,11 @@ and intensive professional development.
 ## Professional Development
 **Google Data Analytics Certificate**
 
-*(practical-based program that covers the fundamentals of Data Analytics: Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share data)*
+<sub>*(practical-based program that covers the fundamentals of Data Analytics: Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share data)*</sub>
 
 **CFA Institute – Investment Foundations Programme**
 
-*(Grounding knowledge in the principles of finance, ethics, and investments within a global investment industry)* 
+<sub>*(Grounding knowledge in the principles of finance, ethics, and investments within a global investment industry)*</sub> 
 
 
 ## Projects
