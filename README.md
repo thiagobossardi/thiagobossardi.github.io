@@ -20,7 +20,12 @@ and intensive professional development.
 
 ### Education
 - MSc Economics - University of Greenwich, United Kingdom (September 2023)
-- BA International - Trade University of Caxias Do Sul, Brazil 
+
+   *Dissertation: How commodity super-cyles impact economic output in developed and developing countries*
+ 
+- BA International - Trade University of Caxias Do Sul, Brazil
+
+   *Undergraduate Project: Analysis of the internationalization process of the University of Caxias do Sul*
 
 ### Professional Development
 **Google Data Analytics Certificate**
@@ -51,6 +56,8 @@ data.
 - Accountable for quantitative and qualitative analysis of trades to ensure the traders are in accordance with the
 fund’s trading strategy and mandate.
 - Monitoring and surveillance work to evidence compliance with FCA rules/principles and EU rules (MIFID II).
+- Regulatory reporting, including trade and transaction reporting.
+-	Preparation of compliance reports and presentations.
 - Responsible for the transition of key monitoring and surveillance tasks from the UK branch to the Brazilian
 headquarters.
 
