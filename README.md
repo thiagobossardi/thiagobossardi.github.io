@@ -22,11 +22,11 @@ and intensive professional development.
 ## Education
 **MSc Economics - University of Greenwich, United Kingdom** (September 2023)
 
-   *Dissertation: How commodity super-cyles impact economic output in developed and developing countries*
+  >*Dissertation: How commodity super-cyles impact economic output in developed and developing countries*
  
 **BA International - Trade University of Caxias Do Sul, Brazil**
 
-   *Undergraduate Project: Analysis of the internationalization process of the University of Caxias do Sul*
+  >*Undergraduate Project: Analysis of the internationalization process of the University of Caxias do Sul*
 
 
 ## Professional Development
