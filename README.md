@@ -84,22 +84,12 @@ with other tradesmen on site to ensure the timely completion of construction pro
   
 **Administrative Assistant - International Affairs (March 2015 – December 2017)**
 **[University of Caxias do Sul, Brazil](https://www.ucs.br/site)**
-- Provided efficient and knowledgeable administrative support when dealing with all incoming inquiries and responded
-to all students and professors within a busy international affairs department.
-- Communicated externally with other countries and delivered workshops in relation to student exchange
-opportunities.
-- Exposed to and enhanced understanding of working with a varied workload which required a detailed understanding
-and up-to-date knowledge of changing immigration regulations and the ability to understand various international
-qualifications and to convert these into the Brazilian equivalent.
-- Fully accountable for working with students on exchange and ensuring their general well-being.
+-	Communicated externally with other countries and delivered workshops in relation to student exchange opportunities.
+-	Understanding of changing immigration regulations. 
+-	Assistance to convert various international qualifications into the Brazilian equivalent and vice-versa.
+-	Fully accountable for working with students prior to and on exchange and ensuring their general well-being.
   
-*Key Achievements*
-- Successfully managed and updated spreadsheets and databases, which required a detailed understanding of data
-analysis and manipulation.
-- Enabled and influenced a key partnership between the University of Caxias do Sul and the International Business
-School Americas that provided short-term courses within the field of business in the United States and Europe. The
-partnership provided an 80% discount on short courses and was frequently requested by students who could not
-participate in the typical exchange program.
-- Charged with undertaking a piece of key research on behalf of the University to determine the degree of
-internationalization and how best to make the University more international. Collated internal data from all courses,
-students and professor’s exchanges, professor’s research partnerships, and with other researchers.
+Key Achievements
+-	Enabled and influenced a key partnership between the University of Caxias do Sul and the International Business School Americas (the partnership provided an 80% discount on short courses).
+-	Research on behalf of the University to determine the degree of internationalization and how best to make the University more international. 
+
