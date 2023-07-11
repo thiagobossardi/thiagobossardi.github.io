@@ -19,22 +19,22 @@ and intensive professional development.
 - English, Italian & Portuguese (Fluent)
 
 ### Education
-- MSc Economics - University of Greenwich, United Kingdom (September 2023)
+**- MSc Economics - University of Greenwich, United Kingdom** (September 2023)
 
    *Dissertation: How commodity super-cyles impact economic output in developed and developing countries*
  
-- BA International - Trade University of Caxias Do Sul, Brazil
+**- BA International - Trade University of Caxias Do Sul, Brazil**
 
    *Undergraduate Project: Analysis of the internationalization process of the University of Caxias do Sul*
 
 ### Professional Development
-**Google Data Analytics Certificate**
-- A bespoke course designed by Google that provides a practical-based program and covers the fundamentals of Data
-Analytics. Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share
-data.
+**- Google Data Analytics Certificate**
 
-**CFA Institute – Investment Foundations Programme**
-- Provided a grounding knowledge in the principles of finance, ethics, and investments within a global investment industry. 
+*(practical-based program and covers the fundamentals of Data Analytics: Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share data)
+
+**- CFA Institute – Investment Foundations Programme**
+
+*(Grounding knowledge in the principles of finance, ethics, and investments within a global investment industry)* 
 
 ### Projects
  As part of the Applied Econometrics Master's subject, students were required to develop a report using appropriate econometrics models and estimators, conduct relevant tests and diagnostic evaluations, make accurate inferences, and provide an evidence-based interpretation of the results.
@@ -62,8 +62,6 @@ fund’s trading strategy and mandate.
 headquarters.
 
 *Key Achievements*
-- Successfully managed and updated spreadsheets and databases, which required a detailed understanding of data
-analysis and manipulation.
 - Single handed developed a system to automate periodical monitoring and surveillance tasks and show the results in
 a dashboard.
 - Fully accountable for providing training to the Brazilian compliance team on periodical monitoring and surveillance
