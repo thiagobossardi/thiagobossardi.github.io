@@ -53,19 +53,16 @@ and intensive professional development.
 ## Work Experience
 **Compliance Analyst March 2022 – September 2022 (Fixed term contract)**
 **[SPX Capital](https://www.spxcapital.com/en/home/)**
-- Accountable for quantitative and qualitative analysis of trades to ensure the traders are in accordance with the
-fund’s trading strategy and mandate.
+- Accountable for ensure that traders are in accordance with the fund’s trading strategy and mandate.
 - Monitoring and surveillance work to evidence compliance with FCA rules/principles and EU rules (MIFID II).
 - Regulatory reporting, including trade and transaction reporting.
 -	Preparation of compliance reports and presentations.
-- Responsible for the transition of key monitoring and surveillance tasks from the UK branch to the Brazilian
-headquarters.
+
 
 *Key Achievements*
-- Single handed developed a system to automate periodical monitoring and surveillance tasks and show the results in
-a dashboard.
-- Fully accountable for providing training to the Brazilian compliance team on periodical monitoring and surveillance
-tasks to comply with FCA rules/principles and EU rules.
+- Single handed developed a system, including a dashboard, to automate trade and transaction reporting.
+- Fully accountable for providing training to the Brazilian compliance team on periodical monitoring and surveillance tasks to comply with FCA rules/principles and EU rules.
+- Responsible for the transition of trade and transaction reporting from the UK branch to the Brazilian headquarters.
 
 **Team Member (August 2021 – March 2022)**
 **[Itsu Ltd.](https://www.itsu.com/)**
