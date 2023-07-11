@@ -73,12 +73,13 @@ and intensive professional development.
 - Consistently adapting to working under pressure within time constraints and with team work. 
 
 **Self-Employed, UK (March 2018 – May 2021)**
-- Career Break and Relocation period.   
+- Career break and relocation period.   
   
 **Administrative Assistant - International Affairs (March 2015 – December 2017)**
 **[University of Caxias do Sul, Brazil](https://www.ucs.br/site)**
--	Communicated externally with other countries and delivered workshops in relation to student exchange opportunities.
--	Understanding of changing immigration regulations. 
+-	Communicated externally with universities ans students in other countries
+-	Delivered workshops in relation to student exchange opportunities.
+-	Understanding of immigration regulations. 
 -	Assistance to convert various international qualifications into the Brazilian equivalent and vice-versa.
 -	Fully accountable for working with students prior to and on exchange and ensuring their general well-being.
   
