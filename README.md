@@ -3,7 +3,7 @@
 # Economist
 
 ### About me
-An ambitious and results-driven professional with expertise in economics and policy making. With experience in fast-paced commercial environments in the UK and Brazil, I possess excellent interpersonal, analytical, and communication skills. Throughout my career, I have successfully led and managed multiple projects, showcasing a methodical approach to understanding complex business issues. I am a highly motivated self-starter who continuously seeks opportunities for professional development and acquiring new skills.
+An ambitious and results-driven professional with expertise in economics. With experience in fast-paced commercial environments in the UK and Brazil, I possess excellent interpersonal, analytical, and communication skills. Throughout my career, I have successfully led and managed multiple projects, showcasing a methodical approach to understanding complex business issues. I am a highly motivated self-starter who continuously seeks opportunities for professional development and acquiring new skills.
 
 ### Skills
 - Economics - Econometrics - Macroeconomics 
