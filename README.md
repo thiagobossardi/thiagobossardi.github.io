@@ -30,19 +30,21 @@ An ambitious and results-driven professional with expertise in economics and pol
 
 **CFA Institute – Investment Foundations Programme**
 
-<sub>*Grounding knowledge in the principles of finance, ethics, and investments within a global investment industry*</sub> 
+<sub>*Principles of finance, ethics, and investments within a global investment industry*</sub> 
 
 
 ## Projects
  As part of the Applied Econometrics Master's subject, students were required to develop a report using appropriate econometrics models and estimators, conduct relevant tests and diagnostic evaluations, make accurate inferences, and provide an evidence-based interpretation of the results.
 
-**1 -** This report was made using Panel Data on Stata software, and it aimed to find the Determinants of Wage Earnings in the US.
+**1 -** Determinants of Wage Earnings in the US.
 
+<sub>This report was made using Panel Data on Stata</sub> 
 **[Report](/Assets/Reports/1- Wage Determinants.pdf)**
 
 
-**2 -** This report was made using Time Series Data on Stata software, and it aimed to Test for cointegration and relationships between per-capita income in US regions.
+**2 -** Test for cointegration and relationships between per-capita income in US regions.
 
+<sub>This report was made using Time Series Data on Stata</sub> 
 **[Report](/Assets/Reports/2 - Income Convergence.pdf)**
 
 
