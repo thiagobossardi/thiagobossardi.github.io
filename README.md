@@ -3,13 +3,7 @@
 # Economist
 
 ### About me
-An ambitious and results-driven person with knowledge and professional interest in economics and policy making. A highly
-motivated self-starter with experience working in fast-paced commercial environments, having acquired significant
-experience both in the UK and in Brazil. A dedicated and diligent professional who exhibits outstanding interpersonal,
-analytical, and communication skills and a sound, methodical approach to understanding the intricacies of business issues
-and the wider business picture, having successfully led and managed multiple projects throughout my career. A highly
-motivated individual who continuously pursues opportunities to gain new skills and experience and insists on thorough
-and intensive professional development.
+An ambitious and results-driven professional with expertise in economics and policy making. With experience in fast-paced commercial environments in the UK and Brazil, I possess excellent interpersonal, analytical, and communication skills. Throughout my career, I have successfully led and managed multiple projects, showcasing a methodical approach to understanding complex business issues. I am a highly motivated self-starter who continuously seeks opportunities for professional development and acquiring new skills.
 
 ### Skills
 - Economics - Econometrics - Macroeconomics 
@@ -24,7 +18,7 @@ and intensive professional development.
 
   >*Dissertation: How commodity super-cyles impact economic output in developed and developing countries*
  
-**BA International - Trade University of Caxias Do Sul, Brazil**
+**BA International Trade - University of Caxias Do Sul, Brazil**
 
   >*Undergraduate Project: Analysis of the internationalization process of the University of Caxias do Sul*
 
@@ -32,11 +26,11 @@ and intensive professional development.
 ## Professional Development
 **Google Data Analytics Certificate**
 
-<sub>*(practical-based program that covers the fundamentals of Data Analytics: Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share data)*</sub>
+<sub>*Advanced knowledge of spreadsheets, SQL, Tableau, and R, and how to prepare, process, analyze and share data*</sub>
 
 **CFA Institute – Investment Foundations Programme**
 
-<sub>*(Grounding knowledge in the principles of finance, ethics, and investments within a global investment industry)*</sub> 
+<sub>*Grounding knowledge in the principles of finance, ethics, and investments within a global investment industry*</sub> 
 
 
 ## Projects
