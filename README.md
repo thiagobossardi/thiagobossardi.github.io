@@ -37,14 +37,14 @@ An ambitious and results-driven professional with expertise in economics and pol
  As part of the Applied Econometrics Master's subject, students were required to develop a report using appropriate econometrics models and estimators, conduct relevant tests and diagnostic evaluations, make accurate inferences, and provide an evidence-based interpretation of the results.
 
 **1 -** Determinants of Wage Earnings in the US.
+<sub>(Panel Data on Stata)</sub> 
 
-<sub>This report was made using Panel Data on Stata</sub> 
 **[Report](/Assets/Reports/1- Wage Determinants.pdf)**
 
 
 **2 -** Test for cointegration and relationships between per-capita income in US regions.
+<sub>(Time Series Data on Stata)</sub> 
 
-<sub>This report was made using Time Series Data on Stata</sub> 
 **[Report](/Assets/Reports/2 - Income Convergence.pdf)**
 
 
