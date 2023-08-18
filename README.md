@@ -16,7 +16,7 @@ An ambitious and results-driven professional with expertise in economics. With e
 ## Education
 **MSc Economics - University of Greenwich, United Kingdom** (September 2023)
 
-  >*Dissertation: How commodity super-cyles impact economic output in developed and developing countries*
+  >*Dissertation: Commodities Super Cycles and the Energy – Non-Energy Pass-through Effects*
  
 **BA International Trade - University of Caxias Do Sul, Brazil**
 
