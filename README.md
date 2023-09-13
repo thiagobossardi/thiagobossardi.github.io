@@ -16,7 +16,7 @@ An ambitious and results-driven professional with expertise in economics. With e
 ## Education
 **MSc Economics - University of Greenwich, United Kingdom** (September 2023)
 
-  >*Dissertation: Commodities Super Cycles and the Energy – Non-Energy Pass-through Effects*
+  >*Dissertation: Empirical Analysis of the Pass-through Effects of Energy to Non-Energy Prices during Commodity Price Supercycles*
  
 **BA International Trade - University of Caxias Do Sul, Brazil**
 
